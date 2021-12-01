@@ -9,3 +9,5 @@
 3.Calendar App(17.11.2021)
 
 4.Chat App(18.11.2021)
+
+5.Weather App(01.12.2021)
